@@ -22,9 +22,11 @@ un silencio y algo que decide romperlos en el momento exacto.
 ```text
 the world
 └── scenarys
+    ├── scenarys         la landing · neowebdevsolutions.com
     ├── choisys          decisiones → recorridos → representación
     ├── neos-cube       C++ · 3 × 3 × 3 · núcleo local
-    └── neo-cube-web    geometría pública para gente razonablemente loca
+    ├── neo-cube-web    geometría pública para gente razonablemente loca
+    └── daemon-core      Daemon (Mac, iPhone) y herramientas C++
 ```
 
 ### ahora mismo
@@ -42,6 +44,8 @@ the world
 | [**choisys**](https://github.com/NeoRetroo38/choisys) | producto, interfaz y API pública |
 | [**neos-cube**](https://github.com/NeoRetroo38/neos-cube) | motor C++ local y determinista |
 | [**neo-cube-web**](https://github.com/NeoRetroo38/neo-cube-web) | geometría 3D y SVG reutilizable |
+| [**scenarys**](https://github.com/NeoRetroo38/scenarys) | la landing, en [neowebdevsolutions.com](https://neowebdevsolutions.com) |
+| [**daemon-core**](https://github.com/NeoRetroo38/daemon-core) | Daemon para Mac e iPhone y herramientas C++ |
 
 ### método
 
